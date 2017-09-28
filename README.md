@@ -7,5 +7,5 @@
 
 ### 목차
 
-1. 2017/09/20 1회차 - node.js와 express 소개 (강의자료 pdf)
-2. 2017/09/27 2회차 - router, middleware, ORM (강의자료 pdf)
+1. 2017/09/20 1회차 - node.js와 express 소개 ([강의자료 pdf](https://github.com/easi6/node-seminar/blob/master/wafflestudio_nodejs_course_01_20170920.pdf))
+2. 2017/09/27 2회차 - router, middleware, ORM ([강의자료 pdf](https://github.com/easi6/node-seminar/blob/master/wafflestudio_nodejs_course_02_20170927.pdf))
